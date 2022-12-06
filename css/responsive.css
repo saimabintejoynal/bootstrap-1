@@ -1,0 +1,78 @@
+
+/*extra extra large */
+/*@media (min-width:1400px){
+
+}
+/* extra large */
+/*@media (min-width:1200px) and (max-width:1399.98px){} */
+
+
+/* large */
+@media (min-width:992px) and (max-width:1199.98px){
+    #banner .banner_content h3 {
+        font-size: 25px;
+    }
+    #banner .banner_content h1 {
+        font-size: 42px;
+    }
+    #banner .banner_content h3 {
+        font-size: 25px;
+    }
+    #banner .banner_content a {
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+    .section_info h2 {
+        font-size: 40px;
+    }
+    .section_info p {
+        font-size: 20px;
+        line-height: 47px;
+    }
+    #banner{
+        height: 600px;      
+    }
+    #about {
+        padding: 53px 0;
+    }
+    #about .about_item {
+        padding: 45px;
+    }
+    #about .about_item h3 {
+        font-size: 18px;
+        margin: 17px 0;
+    }
+    #about .about_item p {
+        font-size: 14px;
+    }
+    .section_info h2 {
+        font-size: 35px;
+    }
+    #service .service_item h3 {
+        font-size: 20px;
+        margin: 15px 0;
+    }
+    #service .service_item p {
+        font-size: 14px;
+    }
+    #service .service_item {
+        padding-top: 40px;
+    }
+    .section_info h2 {
+        font-size: 35px;
+    }
+
+}
+/* medium */
+@media (min-width:768) and (max-width:991.98px){
+   
+}
+
+/* small */
+@media (min-width:576) and (max-width:767.98px){
+    
+}
+/* extra small */
+@media(max-width:575.98px){
+    
+}
